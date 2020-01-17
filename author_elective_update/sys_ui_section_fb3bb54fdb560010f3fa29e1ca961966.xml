@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Log" section_id="fb3bb54fdb560010f3fa29e1ca961966" sys_domain="global" table="x_58872_needit_needit" version="3" view="">
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Log</caption>
+            <header>false</header>
+            <name>x_58872_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>adelita.esparza</sys_created_by>
+            <sys_created_on>2020-01-16 23:59:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fb3bb54fdb560010f3fa29e1ca961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Log</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_fb3bb54fdb560010f3fa29e1ca961966</sys_update_name>
+            <sys_updated_by>adelita.esparza</sys_updated_by>
+            <sys_updated_on>2020-01-16 23:59:58</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>59eeeff7db607b00f492c59705961903</instance_id>
+        <instance_name>dev79706</instance_name>
+        <name>sys_ui_section_fb3bb54fdb560010f3fa29e1ca961966</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Log" section_id="fb3bb54fdb560010f3fa29e1ca961966" sys_domain="global" table="x_58872_needit_needit" version="3" view=""><sys_ui_section action="INSERT_OR_UPDATE"><caption>Log</caption><header>false</header><name>x_58872_needit_needit</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>adelita.esparza</sys_created_by><sys_created_on>2020-01-16 23:59:58</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fb3bb54fdb560010f3fa29e1ca961966</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Log</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_section_fb3bb54fdb560010f3fa29e1ca961966</sys_update_name><sys_updated_by>adelita.esparza</sys_updated_by><sys_updated_on>2020-01-16 23:59:58</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-181105054</payload_hash>
+        <record_name>NeedIt</record_name>
+        <reverted_from/>
+        <source>0d7e38cbdb520010f3fa29e1ca9619f5</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>adelita.esparza</sys_created_by>
+        <sys_created_on>2020-01-17 00:21:44</sys_created_on>
+        <sys_id>9a304283db960010f3fa29e1ca961907</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16fb0e08dd80000001</sys_recorded_at>
+        <sys_updated_by>adelita.esparza</sys_updated_by>
+        <sys_updated_on>2020-01-17 00:21:44</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>5a30428339960010a98445d5bc4ac107</update_guid>
+        <update_guid_history>5a30428339960010a98445d5bc4ac107:-181105054</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>adelita.esparza</sys_created_by>
+        <sys_created_on>2020-01-17 00:21:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>b2353b2b44db4230bfcf8d0bd327b481</sys_id>
+        <sys_metadata>fb3bb54fdb560010f3fa29e1ca961966</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Log</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="NeedIt">ee2c8d0fdb920010f3fa29e1ca96194b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_section_fb3bb54fdb560010f3fa29e1ca961966</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_fb3bb54fdb560010f3fa29e1ca961966">9a304283db960010f3fa29e1ca961907</sys_update_version>
+        <sys_updated_by>adelita.esparza</sys_updated_by>
+        <sys_updated_on>2020-01-17 00:21:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
