@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3">
+        <sys_choice_set action="DELETE">
+            <element>u_what_needed</element>
+            <name>x_58872_needit_needit</name>
+            <sys_class_name/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id/>
+            <sys_mod_count/>
+            <sys_name/>
+            <sys_package/>
+            <sys_policy/>
+            <sys_scope/>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2020-01-27 15:36:41</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application/>
+        <file_path/>
+        <instance_id>59eeeff7db607b00f492c59705961903</instance_id>
+        <instance_name>dev79706</instance_name>
+        <name>sys_choice_x_58872_needit_needit_u_what_needed</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="DELETE" field="u_what_needed" table="x_58872_needit_needit" version="3"><sys_choice_set action="DELETE"><element>u_what_needed</element><name>x_58872_needit_needit</name><sys_class_name/><sys_created_by/><sys_created_on/><sys_id/><sys_mod_count/><sys_name/><sys_package/><sys_policy/><sys_scope/><sys_update_name/><sys_updated_by/><sys_updated_on>2020-01-27 15:36:41</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-429457270</payload_hash>
+        <record_name>x_58872_needit_needit.u_what_needed</record_name>
+        <reverted_from/>
+        <source>2b0016a1db220010f3fa29e1ca961931</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>adelita.esparza</sys_created_by>
+        <sys_created_on>2020-01-27 15:36:41</sys_created_on>
+        <sys_id>ba81f42adb220010f3fa29e1ca96198c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16fe7a5d2cf0000001</sys_recorded_at>
+        <sys_updated_by>adelita.esparza</sys_updated_by>
+        <sys_updated_on>2020-01-27 15:36:41</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>3681f42ad7220010f78dd6bc3afef88c</update_guid>
+        <update_guid_history>3681f42ad7220010f78dd6bc3afef88c:-429457270,fa81f42a30220010617b9fc0772b3888:-915848390,b681f42a29220010d1a59852c6805b85:367156690,7281f42a9722001061af0ff476099182:-1223568115,7681f42a9822001073260daf2cfd1f72:1500617887,3281f42a822200108ed9322fcd4cc36f:1827197514,fa81f42a5422001074674b8d4150046b:-2088659708,fbef4ea16322001090153db3cfac0735:-957392732,fbef4ea13322001065bb9a7cf1c48d31:-915848390,3bef4ea1ba220010843bb532604bc02e:-567701384,77ef4ea14c220010aab807c3ea3f5b2b:-1423691141,b3ef4ea17922001095ecb7e59cd4c928:-709049971,ffef4ea100220010b94521d47fccd324:-1389990280,3fef4ea17222001079ec257d485aa421:221069324,7bef4ea1142200108dad75b7df47b21e:115963504,b7ef4ea1202200100dda7c914c15571b:-495418659,60e97a64e522001012616581bdc262c2:0,21d976643422001043808e6e1453d5c3:1536494208,21d9766492220010a60db9d5d6271cbf:-915848390,6dd976648b2200105dccc52b06e9a6bb:-567701384,a9d9766472220010b8295e5e803a05b8:-1423691141,e5d976646122001064d623a4744be5b5:-709049971,25d97664c92200104ee340e29cd54fb2:-1389990280,61d97664572200107eee0689652d46af:221069324,add97664292200107513d1b84b396eab:115963504,e9d9766419220010679928f455aa58a8:-495418659,e65af0d8312200106a78f54791a9e4fb:0,ee5af0d8f8220010d6364469f33d75db:2037410899</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>adelita.esparza</sys_created_by>
+        <sys_created_on>2020-01-27 15:36:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>6191b82adb220010f3fa29e1ca961979</sys_id>
+        <sys_metadata>6191b82adb220010f3fa29e1ca961979</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_what_needed</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_choice_x_58872_needit_needit_u_what_needed</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_58872_needit_needit_u_what_needed">ba81f42adb220010f3fa29e1ca96198c</sys_update_version>
+        <sys_updated_by>adelita.esparza</sys_updated_by>
+        <sys_updated_on>2020-01-27 15:36:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
